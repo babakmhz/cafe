@@ -1,13 +1,17 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #db.sqlite3
 notes.txt
 serviceProvider/migrations/
 =======
 >>>>>>> 04208944c372337bbfb5b6e68793956e7db37de9
+=======
+>>>>>>> 56ee9c8acc993506dab5c2541ba7321ae79699e6
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+<<<<<<< HEAD
 <<<<<<< HEAD
 mysqlConfig.cnf
 provider/migrations/*
@@ -19,11 +23,16 @@ media/
 notes.md
 client/migrations/
 =======
+=======
+>>>>>>> 56ee9c8acc993506dab5c2541ba7321ae79699e6
 
 # C extensions
 *.so
 
+<<<<<<< HEAD
 >>>>>>> 04208944c372337bbfb5b6e68793956e7db37de9
+=======
+>>>>>>> 56ee9c8acc993506dab5c2541ba7321ae79699e6
 # Distribution / packaging
 .Python
 build/
@@ -121,6 +130,9 @@ venv.bak/
 # mypy
 .mypy_cache/
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> 04208944c372337bbfb5b6e68793956e7db37de9
+=======
+>>>>>>> 56ee9c8acc993506dab5c2541ba7321ae79699e6
