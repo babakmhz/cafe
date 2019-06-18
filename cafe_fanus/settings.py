@@ -25,7 +25,7 @@ SECRET_KEY = 'fi*_)5xgp842&^y-3^2cet#a(nxj077&5u%5^xuymaegq)ug_@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.43.93','127.0.0.1','8f1e9113.ngrok.io','cafefanus.ir']
+ALLOWED_HOSTS = ['192.168.43.93','127.0.0.1','4ff2e032.ngrok.io','cafefanus.ir']
 
 
 # Application definition
